@@ -1,0 +1,9 @@
+.container{
+    align-items: center;
+    background-color: palevioletred;
+}
+.wellform-horizontal{
+    margin: auto;
+    padding:20px 20px 20px 20px;
+    align-items: center;
+}
